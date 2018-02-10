@@ -1,5 +1,5 @@
 {
-  "name": "q",
+  "name": "q-utils",
   "version": "0.0.1",
   "description": "R is an implementation of S, I'm reimplementing it in JavaScript.",
   "main": "index.js",
@@ -12,5 +12,13 @@
     "s"
   ],
   "author": "Gene Tinderholm",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeneTinderholm/Q.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GeneTinderholm/Q/issues"
+  },
+  "homepage": "https://github.com/GeneTinderholm/Q#readme"
 }
